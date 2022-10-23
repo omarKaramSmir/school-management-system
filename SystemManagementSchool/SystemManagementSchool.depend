@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1659607717 source:c:\users\omark\onedrive\desktop\nti embedded sysems\c & embedded c level\systemmanagementschool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	<string.h>
+
+1659599914 c:\users\omark\onedrive\desktop\nti embedded sysems\c & embedded c level\systemmanagementschool\student.h
+	<stdbool.h>
+
+1659599944 source:c:\users\omark\onedrive\desktop\nti embedded sysems\c & embedded c level\systemmanagementschool\studend.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	<string.h>
+
